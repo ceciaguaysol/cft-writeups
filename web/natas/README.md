@@ -7,6 +7,6 @@ Natas is an OverTheWire wargame that teaches the basics of serverside web-securi
 - Official Website: https://overthewire.org/wargames/natas/
 
 ## Progress
-|  Level |  Solution |
-| -----  | --------- |
-| 0 -> 1 | 0_to_1.md |
+|  Level |  Solution            |
+| :---:  |   :---:              |
+| 0 -> 1 | [0_to_1] (0_to_1.md) |
