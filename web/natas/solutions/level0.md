@@ -1,4 +1,4 @@
-# Natas Level 0 -> Level 1
+# Natas Level 0 
 
 
 ## Connection
@@ -7,8 +7,8 @@ URL: http://natas0.natas.labs.overthewire.org/
 
 ## Credentials
 
-Username: natas0
-Password: natas0
+- Username: `level0`
+- Password: `level0`
 
 ## Solution
 
@@ -16,4 +16,4 @@ The password can be found hidden in the view source page.
 
 ## Password
 
-scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7
+`scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7` 
